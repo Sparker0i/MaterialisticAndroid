@@ -1,4 +1,4 @@
-package com.a5corp.material;
+package com.a5corp.material.drawer;
 
 public class NavDrawerItem {
     private boolean showNotify;

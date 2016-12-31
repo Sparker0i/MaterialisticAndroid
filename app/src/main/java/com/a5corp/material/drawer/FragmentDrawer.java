@@ -1,4 +1,4 @@
-package com.a5corp.material;
+package com.a5corp.material.drawer;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -13,6 +13,8 @@ import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.a5corp.material.R;
 
 import java.util.ArrayList;
 import java.util.List;
