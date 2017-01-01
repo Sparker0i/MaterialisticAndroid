@@ -9,8 +9,30 @@
     <string name="nav_item_friends">Friends</string>
     <string name="nav_item_notifications">Messages</string>
 
+    <string name="planet1">Mercury</string>
+    <string name="planet2">Venus</string>
+    <string name="planet3">Earth</string>
+    <string name="planet4">Mars</string>
+    <string name="planet5">Jupiter</string>
+    <string name="planet6">Saturn</string>
+    <string name="planet7">Uranus</string>
+    <string name="planet8">Neptune</string>
+    <string name="planet9">Pluto</string>
+
     <!-- navigation drawer item labels  -->
     <string-array name="nav_drawer_labels">
+        <item>@string/planet1</item>
+        <item>@string/planet2</item>
+        <item>@string/planet3</item>
+        <item>@string/planet4</item>
+        <item>@string/planet5</item>
+        <item>@string/planet6</item>
+        <item>@string/planet7</item>
+        <item>@string/planet8</item>
+        <item>@string/planet9</item>
+    </string-array>
+
+    <string-array name="planets_array">
         <item>@string/nav_item_home</item>
         <item>@string/nav_item_friends</item>
         <item>@string/nav_item_notifications</item>

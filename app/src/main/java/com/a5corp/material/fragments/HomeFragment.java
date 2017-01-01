@@ -1,4 +1,4 @@
-package com.a5corp.material;
+package com.a5corp.material.fragments;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,10 +7,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.a5corp.material.R;
 
-public class FriendsFragment extends Fragment {
 
-    public FriendsFragment() {
+public class HomeFragment extends Fragment {
+
+    public HomeFragment() {
         // Required empty public constructor
     }
 
@@ -23,7 +25,7 @@ public class FriendsFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_friends, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_home, container, false);
 
 
         // Inflate the layout for this fragment
